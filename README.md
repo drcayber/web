@@ -9,12 +9,12 @@
 
 Available Templates : 
 
-* Find the site admin page
-* Attacks with scanners ٔNmap
-* Obtain domain information
-* Attacks dos
-* sqlinjection
-* wp-scan brute force
+* Find the site admin Panel
+* Web Scan ٔNmap
+* Whois Domin
+* Code Sorce
+* Attacks Sql
+* Wordpress Scan , Brute Force
 
 
 ## Regarding Termux
