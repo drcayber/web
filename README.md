@@ -61,7 +61,7 @@ sudo chmod +x install.sh
 sudo bash install.sh
 sudo python3 webcyber.py
 ```
-### / Termux
+###  Termux
 
 ```bash
 git clone https://github.com/cyhhorold/webcyber
@@ -72,7 +72,7 @@ python3 webcyber.py
 ```
 
 
-### / Follow us on
+###  Follow us on
 
 
 ```bash
