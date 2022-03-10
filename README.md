@@ -97,7 +97,7 @@ python3 webcyber.py
 
 https://github.com/drcayber/
 
-<a href="https://instagram.com/drcayber"</a>
+https://instagram.com/drcayber
 
 https://zil.ink/drcayber
 
