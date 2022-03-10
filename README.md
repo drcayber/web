@@ -95,10 +95,9 @@ python3 webcyber.py
 ###  Follow us on
 
 
-```bash
 https://github.com/drcayber/
 
 <a href="https://instagram.com/drcayber"</a>
 
 https://zil.ink/drcayber
-```
+
