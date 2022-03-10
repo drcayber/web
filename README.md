@@ -17,6 +17,10 @@ Available Templates :
 * wp-scan brute force
 
 
+## Regarding Termux
+
+The tool may have a problem with the thermox distribution, which our team will address soon !
+
 ## Tested On :
 
 * Termux , Kali , Parrot , Ubuntu
