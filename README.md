@@ -32,8 +32,11 @@ The tool may have a problem with the thermox distribution, which our team will a
 
 ```bash
 apt update
+
 apt upgrade
+
 pkg install git
+
 pkg install python
 ```
 
@@ -42,10 +45,15 @@ pkg install python
 ### Prerequisites for installation on Kali , Parrot , Ubuntu
 
 ```bash
+
 sudo apt-get update
+
 sudo apt-get upgrade
+
 sudo apt-get install git
+
 sudo apt-get install python
+
 sudo apt-get neofetch
 ```
 
@@ -55,19 +63,29 @@ sudo apt-get neofetch
 ### / KaliLinux / Ubuntu / Parrot-OS
 
 ```bash
+
 git clone https://github.com/cyhhorold/webcyber
+
 cd webcyber
+
 sudo chmod +x install.sh
+
 sudo bash install.sh
+
 sudo python3 webcyber.py
 ```
 ###  Termux
 
 ```bash
+
 git clone https://github.com/cyhhorold/webcyber
+
 cd webcyber
+
 chmod +x install.sh
+
 bash install.sh
+
 python3 webcyber.py
 ```
 
