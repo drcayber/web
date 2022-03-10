@@ -24,7 +24,6 @@ The tool may have a problem with the thermox distribution, which our team will a
 
 
 
-#
 
 ## Tested On :
 
