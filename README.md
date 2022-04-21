@@ -66,7 +66,7 @@ sudo apt-get neofetch
 
 ```bash
 
-git clone https://github.com/cyhhorold/webcyber
+git clone https://github.com/drcayber/webcyber
 
 cd webcyber
 
@@ -80,7 +80,7 @@ sudo python3 webcyber.py
 
 ```bash
 
-git clone https://github.com/cyhhorold/webcyber
+git clone https://github.com/drcayber/webcyber
 
 cd webcyber
 
