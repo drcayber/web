@@ -66,9 +66,9 @@ sudo apt-get neofetch
 
 ```bash
 
-git clone https://github.com/drcayber/webcyber
+git clone https://github.com/drcayber/web
 
-cd webcyber
+cd web
 
 sudo chmod +x install.sh
 
@@ -80,9 +80,9 @@ sudo python3 webcyber.py
 
 ```bash
 
-git clone https://github.com/drcayber/webcyber
+git clone https://github.com/drcayber/web
 
-cd webcyber
+cd web
 
 chmod +x install.sh
 
